@@ -81,6 +81,10 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
+/*
+created by Vikram first activity to be opened from the app
+*/
+
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback,GoogleMap.OnInfoWindowClickListener, View.OnDragListener {
 
     boolean flag = true;
@@ -484,6 +488,9 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         return false;
     }
 
+    /*
+    sorting funciton using comparator function.
+    */
     private class SortComparator implements Comparator<ExtraDetail> {
         private int maxUpvotes;
         private int minUpvotes;
