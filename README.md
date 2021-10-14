@@ -10,9 +10,3 @@ It is an android application based on the theme of gathering. Event organizers h
 - Efficient garbage management by marking the location of garbage on map which is later collected by the cleanliness volunteers.
 - Fast medical attention by marking the location of medical emergency on map so that help reaches quickly.
 - Marking exit locations on map so that people can rush out safely and quickly in case of an emergency.
-
-# Team members :
-- [Aryan Khanna](https://github.com/Netfreak21)
-- [Kartik Mahendru](https://github.com/kartikMahendru)
-- [Mehul Garg](https://github.com/gargmehul10)
-- [Utsav Jain](https://github.com/Utsavjain4561)
